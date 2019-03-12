@@ -1,6 +1,12 @@
 # Insecurity-Demonstrations
 Demos of How people are not as secure as they think and the implications of that insecurity
 
+## What every website knows about you
+http://webkay.robinlinus.com/ demonstrates how websites can track what we do, including:
+* location
+* enumerating network devices (yikes!)
+* and others
+
 ## Dangers of Metadata
 > "We Kill People Based on Metadata"
 >
